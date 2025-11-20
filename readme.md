@@ -56,7 +56,7 @@ In the **Download Holdings** interface, use settings like:
 - Resource Types: **All**
 - Visibility: **All Selected Holdings**
 
-Screenshot placeholder — drop your screenshot in the repo and update this path:
+Screenshot:
 
     ![EDS Download Holdings screenshot](eds_download_holdings.png)
 
