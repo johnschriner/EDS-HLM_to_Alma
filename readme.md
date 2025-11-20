@@ -93,8 +93,6 @@ A suggested directory structure:
         matches_fuzzy.csv
         eds_unmatched.csv
         alma_unmatched.csv
-      docs/
-        eds-download-holdings.png           # (optional) screenshot for documentation
 
 ---
 
