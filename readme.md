@@ -60,7 +60,7 @@ Screenshot placeholder — drop your screenshot in the repo and update this path
 
     ![EDS Download Holdings screenshot](docs/eds-download-holdings.png)
 
-Save this large CSV (often ~900 MB) into `data/`, for example:
+Save this large CSV into `data/`, for example:
 
     data/EDS_export.csv
 
