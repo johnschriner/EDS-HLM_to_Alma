@@ -58,7 +58,7 @@ In the **Download Holdings** interface, use settings like:
 
 Screenshot placeholder — drop your screenshot in the repo and update this path:
 
-    ![EDS Download Holdings screenshot](docs/eds-download-holdings.png)
+    ![EDS Download Holdings screenshot](eds_download_holdings.png)
 
 Save this large CSV into `data/`, for example:
 
