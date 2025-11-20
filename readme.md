@@ -56,10 +56,6 @@ In the **Download Holdings** interface, use settings like:
 - Resource Types: **All**
 - Visibility: **All Selected Holdings**
 
-Screenshot:
-
-    ![EDS Download Holdings screenshot](https://github.com/johnschriner/EDS-HLM_to_Alma/blob/main/eds_download_holdings.png)
-
 Save this large CSV into `data/`, for example:
 
     data/EDS_export.csv
