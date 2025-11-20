@@ -58,7 +58,7 @@ In the **Download Holdings** interface, use settings like:
 
 Screenshot:
 
-    ![EDS Download Holdings screenshot](eds_download_holdings.png)
+    ![EDS Download Holdings screenshot](https://github.com/johnschriner/EDS-HLM_to_Alma/blob/main/eds_download_holdings.png)
 
 Save this large CSV into `data/`, for example:
 
